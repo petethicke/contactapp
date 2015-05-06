@@ -1,0 +1,13 @@
+h1, p {
+  text-align: center;
+}
+
+#wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#btn {
+  display: block;
+  margin: 0 auto;
+}
